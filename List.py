@@ -7,7 +7,9 @@ thislist.insert(2, "Orange")
 print(thislist)
 
 #Add new item at the end of the LIST
-thislist.append('Apple')
+# thislist.append('Apple')
+print('new test case')
+thislist.append(['shailen','shailen2','shailen3'])
 print(thislist)
 
 #Extending a list by another list
